@@ -1,2 +1,2 @@
-# Excel
- Dashboard de vendas
+# Dashboard de Vendas
+ Ferramenta utilizada: Excel
